@@ -9,5 +9,6 @@
  }
 
 def get_the_values(groceries)
-  groceries.values  #code your solution here!
+  groceries.values 
+  groceries.values.flaten #code your solution here!
 end
